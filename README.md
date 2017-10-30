@@ -1,29 +1,10 @@
-# README #
+# Accessing NEII Services Programmatically #
 
-This repository contains python notebooks to demonstrate access to NEII services.
+NEII Services can be accessed using languages like Python, or with GIS tools such as QGIS. This site contains several tutorials to get you started. 
 
-### What is this repository for? ###
+The source code for all these tutorials is on github at https://github.com/neii-tools/jupyter-notebooks/tree/master
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+### Tutorials ###
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* [Getting Started with Jupyter Notebook and Python](GettingStarted.html).
+* [Querying a Web Map Service with Python](WMSExample.html).
