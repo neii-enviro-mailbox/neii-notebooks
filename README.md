@@ -8,3 +8,4 @@ The source code for all these tutorials is on github at https://github.com/neii-
 
 * [Getting Started with Jupyter Notebook and Python](GettingStarted.html).
 * [Querying a Web Map Service with Python](WMSExample.html).
+* More to follow
