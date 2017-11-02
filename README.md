@@ -6,6 +6,7 @@ The source code for all these tutorials is on github at https://github.com/neii-
 
 ### Tutorials ###
 
-* [Getting Started with Jupyter Notebook and Python](GettingStarted.html).
-* [Querying a Web Map Service with Python](WMSExample.html).
+* [Getting Started with Jupyter Notebook and Python](GettingStarted.html)
+* [Querying the NEII Catalogue with Python](CatalogueExample.html)
+* [Querying a Web Map Service with Python and using Matplotlib](WMSExample.html)
 * [Accessing NEII Services using a Desktop GIS](QGISExample.html)
