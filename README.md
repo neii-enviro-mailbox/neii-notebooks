@@ -1,29 +1,17 @@
 # README #
 
-This repository contains python notebooks to demonstrate access to NEII services.
+This repository contains Python notebooks to demonstrate access to NEII services.
 
-### What is this repository for? ###
+### Repository Structure ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This repository contains two main branches:
+* master - contains the master versions of the .ipynb files (jupyter-notebooks). Changes to the notebooks should be made in this branch.
+* gh-pages - contains a landing page and HTML versions of the jupyter-notebooks. HTML versions of the notebooks are created using the jupyter-nbconvert command and saved to this branch.
+e.g. jupyter-nbconvert --to html mynotebook.ipynb
 
-### How do I get set up? ###
+The gh-pages branch is automatically deployed using GitHub Pages here: https://neii-tools.github.io/neii-notebooks/
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
+### Who to contact about this repository ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* See [the main NEII website] (http://neii.gov.au) for latest contact details and more information about the NEII program.
