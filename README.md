@@ -8,8 +8,8 @@ The source code for all these tutorials is on github at https://github.com/neii-
 
 ### Tutorials ###
 
-* [Getting Started with Jupyter Notebook and Python](GettingStarted.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/GettingStarted.ipynb" download>(Download Notebook)</a>
-* [Querying the NEII Catalogue with Python](CatalogueExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/CatalogueExample.ipynb" download>(Download Notebook)</a>
-* [Querying a Web Map Service with Python and using Matplotlib](WMSExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/WMSExample.ipynb" download>(Download Notebook)</a>
-* [Querying a Web Feature Service with Python and using Matplotlib and Basemap](WFSExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/WFSExample.ipynb" download>(Download Notebook)</a>
-* [Accessing NEII WMS and WFS Services using a Desktop GIS](QGISExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/QGISExample.ipynb" download>(Download Notebook)</a>
+* [Getting Started with Jupyter Notebook and Python](GettingStarted.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/GettingStarted.ipynb" download><i>(Download Notebook)</i></a>
+* [Querying the NEII Catalogue with Python](CatalogueExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/CatalogueExample.ipynb" download><i>(Download Notebook)</i></a>
+* [Querying a Web Map Service with Python and using Matplotlib](WMSExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/WMSExample.ipynb" download><i>(Download Notebook)</i></a>
+* [Querying a Web Feature Service with Python and using Matplotlib and Basemap](WFSExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/WFSExample.ipynb" download><i>(Download Notebook)</i></a>
+* [Accessing NEII WMS and WFS Services using a Desktop GIS](QGISExample.html) <a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/QGISExample.ipynb" download><i>(Download Notebook)</i></a>
