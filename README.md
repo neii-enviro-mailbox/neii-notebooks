@@ -13,3 +13,5 @@ The source code for all these tutorials is on github at https://github.com/neii-
 * [Querying a Web Map Service with Python and using Matplotlib](WMSExample.html) [*(Notebook source code)*](https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/WMSExample.ipynb)
 * [Querying a Web Feature Service with Python and using Matplotlib and Basemap](WFSExample.html) [*(Notebook source code)*](https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/WFSExample.ipynb)
 * [Accessing NEII WMS and WFS Services using a Desktop GIS](QGISExample.html) [*(Notebook source code)*](https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/QGISExample.ipynb)
+
+<a href="https://raw.githubusercontent.com/neii-tools/jupyter-notebooks/master/GettingStarted.ipynb" download>Download link</a>
