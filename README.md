@@ -1,6 +1,6 @@
 # Accessing NEII Services Programmatically #
 
-NEII Services can be accessed using languages like Python, or with GIS tools such as QGIS. This site contains several tutorials to get you started. 
+NEII web data services can be accessed using languages like Python, or with GIS tools such as QGIS. This site contains several tutorials to get you started. 
 
 The tutorials are written using Jupyter Notebook which is an interactive coding environment for Python. The executable source code (the notebook) for each tutorial can be downloaded from the corresponding 'Download Notebook' link. Each notebook is a file with a .ipynb file extension which can be opened using Jupyter Notebook.
 
